@@ -93,7 +93,7 @@ Apache Zookeeper v3.5.0 on Ubuntu with Java 8
 
 ## Screenshot
 
-![alt tag](https://raw.githubusercontent.com/BZCareer//docker-zookeeper/imgs/Zookeeper-Pod.png)
-![alt tag](https://raw.githubusercontent.com/BZCareer//docker-zookeeper/imgs/Zookeeper-Service.png)
-![alt tag](https://raw.githubusercontent.com/BZCareer//docker-zookeeper/imgs/Zookeeper-logs.png)
-![alt tag](https://raw.githubusercontent.com/BZCareer//docker-zookeeper/imgs/Zookeeper-web-admin.png)
+![alt tag](https://raw.githubusercontent.com/BZCareer/docker-zookeeper/master/imgs/Zookeeper-Pod.png)
+![alt tag](https://raw.githubusercontent.com/BZCareer/docker-zookeeper/master/imgs/Zookeeper-Service.png)
+![alt tag](https://raw.githubusercontent.com/BZCareer/docker-zookeeper/master/imgs/Zookeeper-logs.png)
+![alt tag](https://raw.githubusercontent.com/BZCareer/docker-zookeeper/master/imgs/Zookeeper-web-admin.png)
